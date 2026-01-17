@@ -1,36 +1,34 @@
 #EXTM3U
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://safiafamily.com/uploads/family/morocco/2m_Maroc_TV.png" tvg-name="Mor| 2M Maroc TV [ 2M Monde ] ✦"  group-title="AR| MAROC",Mor| 2M Maroc TV [ 2M Monde ] ✦
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://safiafamily.com/uploads/family/morocco/2m_Maroc_TV.png" tvg-name="Mor| 2M Maroc TV [ 2M Monde ] ✦" group-title="AR| MAROC",Mor| 2M Maroc TV [ 2M Monde ] ✦
 http://familyrestream.com:2095/Majid2022/WhatsApp2962myrestream/5800
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://safiafamily.com/uploads/family/morocco/Chada_TV.png" tvg-name="Mor| Chada TV ✦"  group-title="AR| MAROC",Mor| Chada TV ✦
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://safiafamily.com/uploads/family/morocco/Chada_TV.png" tvg-name="Mor| Chada TV ✦" group-title="AR| MAROC",Mor| Chada TV ✦
 http://familyrestream.com:2095/Majid2022/WhatsApp2962myrestream/67626
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Wk8BWg4/arryadia.png",ARRYADIA TNT الرياضية
-https://cdnet.alwaysdata.net/maroo19/maarrytnt.php?m3u8 
+#EXTINF:-1, tvg-id="ARRYADIA_TNT.ma" tvg-logo="https://i.ibb.co/Wk8BWg4/arryadia.png" tvg-name="Mor| Arryadia TNT ✦" group-title="AR| MAROC",Mor| Arryadia TNT ✦
+https://cdnet.alwaysdata.net/maroo19/maarrytnt.php?m3u8
 
-#EXTINF:-1, tvg-id="beinsports1.fr" tvg-logo="http://safiafamily.com/uploads/family/Bein_sports/Bein_1.png" tvg-name="Fr: BeIN Sports 1 FHD"  group-title="FR| SPORTS",Fr: BeIN Sports 1 FHD
+#EXTINF:-1, tvg-id="beinsports1.fr" tvg-logo="http://safiafamily.com/uploads/family/Bein_sports/Bein_1.png" tvg-name="Fr: BeIN Sports 1 FHD" group-title="FR| SPORTS",Fr: BeIN Sports 1 FHD
 http://familyrestream.com:2095/Majid2022/WhatsApp2962myrestream/70673
 
-#EXTINF:-1, tvg-id="beinsports2.fr" tvg-logo="http://safiafamily.com/uploads/family/france/Bein-Sport-2.png" tvg-name="Fr: belN Sports 2 FHD"  group-title="FR| FRANCE",Fr: belN Sports 2 FHD
+#EXTINF:-1, tvg-id="beinsports2.fr" tvg-logo="http://safiafamily.com/uploads/family/france/Bein-Sport-2.png" tvg-name="Fr: BeIN Sports 2 FHD" group-title="FR| FRANCE",Fr: BeIN Sports 2 FHD
 http://familyrestream.com:2095/Majid2022/WhatsApp2962myrestream/654067
 
-#EXTINF:-1, tvg-id="Ligue1Plus.fr" tvg-logo="Logo N/A" tvg-name="Fr: ligue1+"  group-title="FR| SPORTS",Fr: ligue1+
+#EXTINF:-1, tvg-id="Ligue1Plus.fr" tvg-logo="Logo N/A" tvg-name="Fr: Ligue 1+" group-title="FR| SPORTS",Fr: Ligue 1+
 http://familyrestream.com:2095/Majid2022/WhatsApp2962myrestream/939418
 
-#EXTINF:-1, tvg-id="Ligue1Plus2.fr" tvg-logo="Logo N/A" tvg-name="Fr: ligue1+ 2"  group-title="FR| SPORTS",Fr: ligue1+ 2
+#EXTINF:-1, tvg-id="Ligue1Plus2.fr" tvg-logo="Logo N/A" tvg-name="Fr: Ligue 1+ 2" group-title="FR| SPORTS",Fr: Ligue 1+ 2
 http://familyrestream.com:2095/Majid2022/WhatsApp2962myrestream/939419
 
-#EXTINF:-1, tvg-id="Ligue1Plus3.fr" tvg-logo="Logo N/A" tvg-name="Fr: ligue1+ 3"  group-title="FR| SPORTS",Fr: ligue1+ 3
+#EXTINF:-1, tvg-id="Ligue1Plus3.fr" tvg-logo="Logo N/A" tvg-name="Fr: Ligue 1+ 3" group-title="FR| SPORTS",Fr: Ligue 1+ 3
 http://familyrestream.com:2095/Majid2022/WhatsApp2962myrestream/939420
 
-#EXTINF:-1, tvg-id="Ligue1Plus4.fr" tvg-logo="Logo N/A" tvg-name="Fr: ligue1+ 4"  group-title="FR| SPORTS",Fr: ligue1+ 4
+#EXTINF:-1, tvg-id="Ligue1Plus4.fr" tvg-logo="Logo N/A" tvg-name="Fr: Ligue 1+ 4" group-title="FR| SPORTS",Fr: Ligue 1+ 4
 http://familyrestream.com:2095/Majid2022/WhatsApp2962myrestream/939421
 
-#EXTINF:-1, tvg-id="Ligue1Plus5.fr" tvg-logo="Logo N/A" tvg-name="Fr: ligue1+ 5"  group-title="FR| SPORTS",Fr: ligue1+ 5
+#EXTINF:-1, tvg-id="Ligue1Plus5.fr" tvg-logo="Logo N/A" tvg-name="Fr: Ligue 1+ 5" group-title="FR| SPORTS",Fr: Ligue 1+ 5
 http://familyrestream.com:2095/Majid2022/WhatsApp2962myrestream/939422
 
-#EXTINF:-1, tvg-id="Ligue1Plus6.fr" tvg-logo="Logo N/A" tvg-name="Fr: ligue1+ 6"  group-title="FR| SPORTS",Fr: ligue1+ 6
+#EXTINF:-1, tvg-id="Ligue1Plus6.fr" tvg-logo="Logo N/A" tvg-name="Fr: Ligue 1+ 6" group-title="FR| SPORTS",Fr: Ligue 1+ 6
 http://familyrestream.com:2095/Majid2022/WhatsApp2962myrestream/939423
-
-
