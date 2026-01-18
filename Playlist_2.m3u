@@ -1,16 +1,16 @@
 #EXTM3U
 
 #EXTINF:-1, tvg-id="2m.ma" tvg-logo="http://safiafamily.com/uploads/family/morocco/2m_Maroc_TV.png" tvg-name="2M Maroc TV [ 2M Monde ] ✦",2M Maroc TV [ 2M Monde ] ✦
-https://stream-lb.livemedia.ma/2m/hls/master.m3u8
-
-#EXTINF:-1, tvg-id="2m.ma.2" tvg-logo="http://safiafamily.com/uploads/family/morocco/2m_Maroc_TV.png" tvg-name="(2) 2M Maroc TV [ 2M Monde ] ✦",(2) 2M Maroc TV [ 2M Monde ] ✦
 http://familyrestream.com:2095/Majid2022/WhatsApp2962myrestream/5800
 
+#EXTINF:-1, tvg-id="2m.ma.2" tvg-logo="http://safiafamily.com/uploads/family/morocco/2m_Maroc_TV.png" tvg-name="(2) 2M Maroc TV [ 2M Monde ] ✦",(2) 2M Maroc TV [ 2M Monde ] ✦
+https://stream-lb.livemedia.ma/2m/hls/master.m3u8
+
 #EXTINF:-1, tvg-id="chadatv.ma" tvg-logo="http://safiafamily.com/uploads/family/morocco/Chada_TV.png" tvg-name="Chada TV ✦",Chada TV ✦
-https://stream-lb.livemedia.ma/chadatv/hls/master.m3u8
+http://familyrestream.com:2095/Majid2022/WhatsApp2962myrestream/67626
 
 #EXTINF:-1, tvg-id="chadatv.ma.2" tvg-logo="http://safiafamily.com/uploads/family/morocco/Chada_TV.png" tvg-name="(2) Chada TV ✦",(2) Chada TV ✦
-http://familyrestream.com:2095/Majid2022/WhatsApp2962myrestream/67626
+https://stream-lb.livemedia.ma/chadatv/hls/master.m3u8
 
 #EXTINF:-1, tvg-id="arryadia.tnt" tvg-logo="https://i.ibb.co/Wk8BWg4/arryadia.png" tvg-name="ARRYADIA TNT",ARRYADIA TNT
 https://stream-lb.livemedia.ma/arryadia-tnt/hls/master.m3u8
