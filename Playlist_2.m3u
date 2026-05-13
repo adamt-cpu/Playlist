@@ -17,6 +17,3 @@ https://shd-gcp-live.edgenextcdn.net/live/bitmovin-spacetoon/d8382fb9ab4b2307058
 
 #EXTINF:-1, tvg-id="CanalPlus.fr" tvg-logo="https://focus.telerama.fr/500x500/0000/00/01/clear-34.png" tvg-name="CANAL+ HD"  group-title="CINEMA & SERIES TV",CANAL+ HD
 http://151.80.18.177:86/Canal+_HD/index.m3u8
-
-#EXTINF:-1, tvg-id="beINSPORTS1.fr" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-1-qa-fr.png" tvg-name="BEIN SPORT 1 FHD"  group-title="SPORTS",BEIN SPORT 1 FHD
-http://ip.xtremetv.eu:8000/hizirarkadashollanda/V39WCmGCgSp8/116514
