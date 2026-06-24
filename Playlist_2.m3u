@@ -1,16 +1,19 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-id="2m.ma.2" tvg-logo="http://safiafamily.com/uploads/family/morocco/2m_Maroc_TV.png" tvg-name="2M Maroc TV [2M Monde] ✦",2M Maroc TV [2M Monde] ✦
-https://stream-lb.livemedia.ma/2m/hls/master.m3u8
+https://stream-lb.livemedia.ma/2m/hls/stream_0/master.m3u8
 
 #EXTINF:-1 tvg-id="chadatv.ma.2" tvg-logo="http://safiafamily.com/uploads/family/morocco/Chada_TV.png" tvg-name="Chada TV ✦",Chada TV ✦
-https://stream-lb.livemedia.ma/chadatv/hls/master.m3u8
+https://stream-lb.livemedia.ma/chadatv/hls/stream_0/master.m3u8
 
 #EXTINF:-1 tvg-id="arryadia.tnt.2" tvg-logo="https://i.ibb.co/Wk8BWg4/arryadia.png" tvg-name="ARRYADIA TNT",ARRYADIA TNT
-https://stream-lb.livemedia.ma/arryadia-tnt/hls/master.m3u8
+https://stream-lb.livemedia.ma/arryadia-tnt/hls/stream_0/master.m3u8
 
 #EXTINF:-1 tvg-id="mbc1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8d/Mbc1logo_%282%29.png" tvg-name="MBC 1",MBC 1
 https://shd-gcp-live-orng.shahid.net/live/bitmovin-mbc-1-na/eec141533c90dd34722c503a296dd0d8/index.m3u8
 
 #EXTINF:-1 tvg-id="CanalPlus.fr" tvg-logo="https://focus.telerama.fr/500x500/0000/00/01/clear-34.png" tvg-name="CANAL+ HD",CANAL+ HD
 http://151.80.18.177:86/Canal+_HD/index.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="FR: BEIN SPORT 1 HD"  group-title="FR: SPORT",FR: BEIN SPORT 1 HD
+https://lovely.lovetier.bz/BEINSPORT1FR/tracks-v1a1/mono.m3u8?token=QkVJTlNQT1JUMUZSfG5vX2NoZWNrX2lwfDE3ODIyODk1MzQ%3D.04a08663e36c4242146983b17d444e0271245e0e124a7c115c61bd3782486446
