@@ -15,5 +15,5 @@ https://shd-gcp-live-orng.shahid.net/live/bitmovin-mbc-1-na/eec141533c90dd34722c
 #EXTINF:-1 tvg-id="CanalPlus.fr" tvg-logo="https://focus.telerama.fr/500x500/0000/00/01/clear-34.png" tvg-name="CANAL+ HD",CANAL+ HD
 http://151.80.18.177:86/Canal+_HD/index.m3u8
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="FR: BEIN SPORT 1 HD"  group-title="FR: SPORT",FR: BEIN SPORT 1 HD
-https://lovely.lovetier.bz/BEINSPORT1FR/tracks-v1a1/mono.m3u8?token=QkVJTlNQT1JUMUZSfG5vX2NoZWNrX2lwfDE3ODIyODk1MzQ%3D.04a08663e36c4242146983b17d444e0271245e0e124a7c115c61bd3782486446
+#EXTINF:-1 tvg-id="FS1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/2015_Fox_Sports_1_logo.svg/1280px-2015_Fox_Sports_1_logo.svg.png" tvg-name="FS1",FS1
+https://cdn.haititivi.net/Fox_Sports_1/index.m3u8
